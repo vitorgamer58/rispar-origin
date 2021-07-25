@@ -1,0 +1,35 @@
+body p, input {
+    font-size: 22px;
+}
+.main {
+    width: 30%;
+    margin: auto auto;
+    text-align: center;
+}
+
+.main button {
+    margin: 1em auto;
+    font-size: 16px;
+}
+
+.ltv {
+    display: flex;
+    justify-content: space-between;
+}
+.quote {
+    border-style: solid;
+    margin: 5px;
+}
+
+#detalhes {
+    border-style: solid;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
